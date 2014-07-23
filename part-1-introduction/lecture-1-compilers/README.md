@@ -7,3 +7,5 @@ In a next step, we address compiler construction.
 We present different strategies to build a compiler. 
 You will learn about helpful tools in this process, their features, and their architecture. 
 We conclude the lecture with information about the organisation of the course.
+
+[![View slides on Slideshare](http://image.slidesharecdn.com/cc-intro-100826023909-phpapp02/95/compiler-construction-introduction-1-638.jpg)](https://www.slideshare.net/guwac/compiler-construction-introduction-5058359)
