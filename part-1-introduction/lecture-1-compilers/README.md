@@ -16,3 +16,14 @@ Finally, we introduce traditional *compiler compilers* and modern *language work
 # Slides
 
 [![View slides on Slideshare](Software Languages.jpg)](https://www.slideshare.net/guwac/compiler-construction-introduction-5058359) 
+
+# Further Reading
+
+1. Edward Sapir (1921). Introductory: Language Defined. In [Language. An Introduction to the Study of Speech](http://www.gutenberg.org/files/12629/12629-h/12629-h.htm).
+
+  This chapter provides a definition of *language* and explains properties of language.
+
+2. [Ethnologue: Languages of the World](www.ethnologue.com)
+ 
+  This is a comprehensive reference work cataloging all of the world’s known living languages. TH T
+
