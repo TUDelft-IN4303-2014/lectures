@@ -1,11 +1,18 @@
-We start this lecture with some general comments on the properties of language. 
-We then discuss artificial languages employed in software engineering, so called *software languages*. 
-Next, we introduce compilers which translate such high-level software languages to low-level machine code which is then executed either on a real or virtual machine. 
-You will learn about traditional compilers as well as about modern compilers which integrate into Integrated Development Environments (IDEs) like Eclipse. 
-We present the features and the architecture of both kinds of compilers. 
-In a next step, we address compiler construction. 
-We present different strategies to build a compiler. 
-You will learn about helpful tools in this process, their features, and their architecture. 
-We conclude the lecture with information about the organisation of the course.
+# Summary
 
-[![View slides on Slideshare](http://image.slidesharecdn.com/cc-intro-100826023909-phpapp02/95/compiler-construction-introduction-1-638.jpg)](https://www.slideshare.net/guwac/compiler-construction-introduction-5058359)
+This introduction lecture sets the scene for the course.
+We introduce the notions of *software languages* and *language software* from a bigger, interdisciplinary picture. 
+
+We start with a linguistic discussion of *language*, its properties, and the study of language in philosophy and linguistics.
+We then investigate *natural languages*, *controlled languages*, and *artificial languages* to emphasise the human ability to control and construct languages.
+At the end of the first part of the lecture, we arrive at the notion of *software languages* as means to communicate software between people.
+
+In the second part of the lecture, we extend the notion of *software languages* as means to realise processes on machines.
+We give an overview of *language software*, starting from *interpreters* and *compilers*.
+We then introduce various *language processors* as basic building blocks of compilers.
+We continue with a comparison of traditional compilers and modern compilers in IDEs. 
+Finally, we introduce traditional *compiler compilers* and modern *language workbenches* as tools to construct compilers.
+
+# Slides
+
+[![View slides on Slideshare](http://image.slidesharecdn.com/cc-intro-100826023909-phpapp02/95/software-languages-1-638.jpg)](https://www.slideshare.net/guwac/compiler-construction-introduction-5058359) 
