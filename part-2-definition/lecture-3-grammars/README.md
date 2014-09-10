@@ -1,5 +1,8 @@
 # Summary
 
+This lecture lays the theoretic foundations for declarative syntax formalisms and syntax-based language processors, which we will discuss later in the course. We introduce the notions of *formal languages*, *formal grammars*, and *syntax trees*, starting from Chomsky's work on formal grammars as generative devices.
+
+We start with a *formal* model of *languages* and investigate *formal grammars* and their *derivation relations* as finite models of infinite productivity. We further discuss several classes of formal grammars and their corresponding classes of formal languages. In a second step, we introduce the *word problem*, analyse its decidability and complexity for different classes of formal languages, and discuss consequences of this analysis on language processing. We conclude the lecture with a discussion about *parse tree* construction, *abstract syntax trees*, and *ambiguities*.
 
 # Slides
 
