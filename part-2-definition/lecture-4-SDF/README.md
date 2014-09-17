@@ -15,7 +15,7 @@
 
   This paper describes the Spoofax Testing Language and discusses how to test different language aspects. You can also watch the [conference talk by Lennart](http://www.infoq.com/presentations/Testing-Domain-Specific-Languages).
 
-3. Jean-Marie Favre (2004). [Foundations of Meta-Pyramids: Languages vs. Metamodels-Episode II. Story of Thotus the Baboon](http://drops.dagstuhl.de/opus/volltexte/2005/21/pdf/04101.FavreJeanMarie.Paper.pdf)
+3. Jean-Marie Favre (2004). [Foundations of Meta-Pyramids: Languages vs. Metamodels-Episode II. Story of Thotus the Baboon](http://drops.dagstuhl.de/opus/volltexte/2005/21/pdf/04101.FavreJeanMarie.Paper.pdf). Dagstuhl Seminar 4101.
 
   This paper explores and explains various relations between languages, language definitions, and language instances. The paper includes examples from natural languages and focusses on modelling languages, meta-models, and models. It can be generalised to software languages, language definitions, and software artefacts.
   
