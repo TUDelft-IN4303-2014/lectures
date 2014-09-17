@@ -1,5 +1,24 @@
 # Summary
 
+* syntax definition
+  * regular expressions
+  * BNF
+  * EBNF
+* SDF3
+  * lexical syntax
+  * context-free syntax
+  * abstract syntax
+  * disambiguation
+* Spoofax
+  * architecture & meta-levels
+  * testing
+  * editors
+* syntax-based language processing
+  * parsing
+  * pretty-printing
+  * discovery
+  * syntax highlighting, folding, outlining
+  
 # Slides
 
 [![View slides on Slideshare](SDF3 and ATerms.jpg)](http://www.slideshare.net/guwac/declarative-syntax-definition-sdf-and-aterms) 
