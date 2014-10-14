@@ -10,3 +10,8 @@
 
 [Declarative Syntax Definition. SDF3 and ATerms](part-2-definition/lecture-4-SDF)
 
+Imperative and Object-Oriented Programming Languages
+
+[Declarative Semantics Definition. Static Analysis and Error Checking](part-2-definition/lecture-7-analysis)
+
+[Declarative Semantics Definition. Code Generation](part-2-definition/lecture-8-codegen)
