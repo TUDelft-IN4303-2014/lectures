@@ -10,6 +10,8 @@
 
 [Declarative Syntax Definition. SDF3 and ATerms](part-2-definition/lecture-4-SDF)
 
+[Declarative Semantics Definition. Term Rewriting](part-2-definition/lecture-5-Stratego)
+
 Imperative and Object-Oriented Programming Languages
 
 [Declarative Semantics Definition. Static Analysis and Error Checking](part-2-definition/lecture-7-analysis)
