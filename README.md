@@ -12,7 +12,7 @@
 
 [Declarative Semantics Definition. Term Rewriting](part-2-definition/lecture-6-Stratego)
 
-Imperative and Object-Oriented Programming Languages
+[Imperative and Object-Oriented Programming Languages](part-1-introduction/lecture-2-oops)
 
 [Declarative Semantics Definition. Static Analysis and Error Checking](part-2-definition/lecture-7-analysis)
 
