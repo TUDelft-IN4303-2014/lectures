@@ -2,40 +2,40 @@
 
 ## Introduction
 
-[Software Languages. Language - Languages - Software](part-1-introduction/lecture-1-compilers)
+[Software Languages. Language - Languages - Software](software-languages)
 
 ## Declarative Language Definition
 
 ### Declarative Syntax Definition
 
-[Grammars and Trees](part-2-definition/lecture-3-grammars)
+[Grammars and Trees](grammars)
 
-[SDF3 and ATerms](part-2-definition/lecture-4-SDF)
+[SDF3 and ATerms](SDF-ATerms)
 
 ### Declarative Semantics Definition
 
-[Term Rewriting](part-2-definition/lecture-6-Stratego)
+[Term Rewriting](Stratego)
 
-[Imperative and Object-Oriented Programming Languages](part-1-introduction/lecture-2-oops)
+[Imperative and Object-Oriented Programming Languages](programming-languages)
 
-[Static Analysis and Error Checking](part-2-definition/lecture-7-analysis)
+[Static Analysis and Error Checking](static-semantics)
 
-[Code Generation](part-2-definition/lecture-8-codegen)
+[Code Generation](code-generation)
 
 ## Compiler Techniques
 
-[Dataflow Analysis](part-3-languages/lecture-10-flow)
+[Dataflow Analysis](dataflow-analysis)
 
-[Register Allocation](part-3-languages/lecture-11-allocation)
+[Register Allocation](register-allocation)
 
-[Garbage Collection](part-3-languages/lecture-12-garbage)
+[Garbage Collection](garbage-collection)
 
 ## Compiler Components and Generators
 
-[Lexical Analysis](part-4-components/lecture-13-scanning)
+[Lexical Analysis](lexical-analysis)
 
 ### Parsing Algorithms
 
-[LL Parsing](part-4-components/lecture-14-LL-parsing)
+[LL Parsing](LL-parsing)
 
-[LR Parsing](part-4-components/lecture-15-LR-parsing)
+[LR Parsing](LR-parsing)
