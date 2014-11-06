@@ -14,13 +14,13 @@
 
 ### Declarative Semantics Definition
 
-[Declarative Semantics Definition. Term Rewriting](part-2-definition/lecture-6-Stratego)
+[Term Rewriting](part-2-definition/lecture-6-Stratego)
 
 [Imperative and Object-Oriented Programming Languages](part-1-introduction/lecture-2-oops)
 
-[Declarative Semantics Definition. Static Analysis and Error Checking](part-2-definition/lecture-7-analysis)
+[Static Analysis and Error Checking](part-2-definition/lecture-7-analysis)
 
-[Declarative Semantics Definition. Code Generation](part-2-definition/lecture-8-codegen)
+[Code Generation](part-2-definition/lecture-8-codegen)
 
 ## Compiler Techniques
 
