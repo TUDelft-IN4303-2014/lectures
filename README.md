@@ -26,14 +26,16 @@
 
 [Dataflow Analysis](part-3-languages/lecture-10-flow)
 
-Register Allocation
+[Register Allocation](part-3-languages/lecture-11-allocation)
 
-Garbage Collection
+[Garbage Collection](part-3-languages/lecture-12-garbage)
 
 ## Compiler Components and Generators
 
-Lexical Analysis
+[Lexical Analysis](part-4-components/lecture-13-scanning)
 
-Parsing Algorithms: LL Parsing
+### Parsing Algorithms
 
-Parsing Algorithms: LR Parsing
+[LL Parsing](part-4-components/lecture-14-LL-parsing)
+
+[LR Parsing](part-4-components/lecture-15-LR-parsing)
