@@ -24,7 +24,7 @@
 
 ## Compiler Techniques
 
-[Dataflow Analysis](dataflow-analysis)
+[Dataflow Analysis](dataflow-analyses)
 
 [Register Allocation](register-allocation)
 
